@@ -10,7 +10,7 @@ A complete setup guide for configuring Claude Code with Gemini models using `cla
 
 Open PowerShell and run:
 
-```powershell
+```Powershell
 node --version
 ```
 
