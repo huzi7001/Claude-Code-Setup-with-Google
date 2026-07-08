@@ -23,7 +23,7 @@ node --version
 
 ## 2. Generate Your Google API Key
 
-1. Visit: [https://aistudio.google.com](https://aistudio.google.com)
+1. Visit: [https://aistudio.google.com](https://aistudio.google.com)   (Google AI studio)
 2. Select **Get API Key**
 3. Click **Create API Key**
 ```
