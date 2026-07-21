@@ -117,7 +117,7 @@ ccr code
 Test:
 
 ```
-> hi
+> Hi, tell me about your features
 ```
 
 ---
