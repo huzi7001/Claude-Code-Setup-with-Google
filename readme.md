@@ -1,4 +1,4 @@
-# Free Claude Code Setup with Google Gemin
+# Free Claude Code Setup with Google Gemini
 
 A complete setup guide for configuring Claude Code with Gemini models using `claude-code` and `claude-code-router`.
 
