@@ -2,7 +2,7 @@
 
 A complete setup guide for configuring Claude Code with Gemini models using `claude-code` and `claude-code-router`.
 
----
+--
 
 ## 1. Prerequisites
 
