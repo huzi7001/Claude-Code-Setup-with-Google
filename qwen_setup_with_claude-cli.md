@@ -1,5 +1,5 @@
 # How to Use Claude Code with Qwen Models for Free
-   
+
 ## ⭐ Requirements  
 Before beginning, make sure the following are installed:
 
@@ -8,7 +8,7 @@ Before beginning, make sure the following are installed:
 
 ---
 
-## 🧩 Qwen CLI Installation  
+## 🧩 Qwen CLI Installations
 Install the latest Qwen Code CLI:
 
 ```bash
