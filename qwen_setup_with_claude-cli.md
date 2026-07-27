@@ -8,7 +8,7 @@ Before beginning, make sure the following are installed:
 
 ---
 
-## 🧩 Qwen CLI Installations
+## 🧩 Qwen CLI Installation
 Install the latest Qwen Code CLI:
 
 ```bash
